@@ -104,6 +104,10 @@
     margin: 2em auto;
 }
 
+.formulario__qrcode{
+    width: 260px;
+}
+
 .formulario__imagem--invisivel {
     display: none;
 }
